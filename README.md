@@ -19,3 +19,8 @@ Made in [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/maste
 ##Usage:
 
 ![](https://github.com/CrazyRA2Ivan/Test/blob/qweqwe/usage.gif)
+
+##Setup:
+```Ruby
+pod 'Flat-SlideControl', '~> 0.0.1'
+```
