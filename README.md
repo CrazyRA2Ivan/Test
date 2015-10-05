@@ -27,7 +27,6 @@ pod 'Flat-SlideControl', '~> 0.0.1'
 
 ##Usage example:
 
-*[From Code:]
     FlatSlideControl *flatSlideControl = [[FlatSlideControl alloc] initWithFrame:<#(CGRect)frame#>];
     flatSlideControl.groundColor = [UIColor lightGrayColor];
     flatSlideControl.tintColor = [UIColor redColor];
@@ -36,4 +35,3 @@ pod 'Flat-SlideControl', '~> 0.0.1'
     flatSlideControl.thumbsCount = 4;
     [flatSlideControl setLeftValue:1 rightValue:2];
     [self.view addSubview:flatSlideControl];
-*[From Storyboard:]
