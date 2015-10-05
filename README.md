@@ -8,6 +8,7 @@ Made in [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/maste
 * [Demo](#demo)
 * [Setup](#setup)
 * [Usage example](#usage-example)
+* [Info](#info)
 
 # Demo
 
@@ -34,6 +35,13 @@ pod 'Flat-SlideControl', '~> 0.0.1'
     flatSlideControl.thumbsCount = 4;
     [flatSlideControl setLeftValue:1 rightValue:2];
     [self.view addSubview:flatSlideControl];
+
+# Info
+
+Developed By
+------------
+
+* Alexey Kubas, Appus Studio
 
 License
 --------
