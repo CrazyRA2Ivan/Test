@@ -7,7 +7,7 @@ Made in [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/maste
 
 * [Demo](#demo)
 * [Setup](#setup)
-* [Usage example](#usage_example)
+* [Usage example](#usage-example)
 
 # Demo
 
